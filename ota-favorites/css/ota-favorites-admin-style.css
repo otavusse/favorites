@@ -1,0 +1,12 @@
+.ota-favorites-del {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.ota-favorites-del:hover {
+    color: #cc0000;
+}
+
+.ota-favorites-hidden {
+    display: none;
+}

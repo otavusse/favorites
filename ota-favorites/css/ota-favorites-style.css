@@ -1,0 +1,26 @@
+p.ota-favorites-link a {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    border: none;
+}
+
+p.ota-favorites-link a:hover {
+    text-decoration: none;
+}
+
+.ota-favorites-hidden {
+    display: none;
+}
+
+.widget_ota-favorites-widget ul {
+    list-style: none;
+}
+
+.ota-favorites-del {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.ota-favorites-del:hover {
+    color: #cc0000;
+}
